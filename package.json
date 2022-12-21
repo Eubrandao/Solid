@@ -1,0 +1,23 @@
+{
+  "name": "solid",
+  "version": "1.0.0",
+  "description": "O objetivo desse projeto é a criação de uma API simples, para treinar conceitos como:\r - Solid\r - Unit Tests\r - BDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eubrandao/Solid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eubrandao/Solid/issues"
+  },
+  "homepage": "https://github.com/Eubrandao/Solid#readme",
+  "devDependencies": {
+    "vitest": "^0.26.1"
+  }
+}
